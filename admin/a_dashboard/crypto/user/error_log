@@ -1,0 +1,2 @@
+[30-Mar-2018 18:08:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/matsolut/public_html/admin/a_dashboard/crypto/user/display.php on line 6
+[30-Mar-2018 18:08:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/matsolut/public_html/admin/a_dashboard/crypto/user/display.php on line 6

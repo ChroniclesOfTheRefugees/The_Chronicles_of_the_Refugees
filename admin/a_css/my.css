@@ -1,0 +1,303 @@
+p{color:#656559;}
+h2,h4{color:#088794;}
+	.font22{font-size:22px;color:#088794;padding-top:10px;}
+	.margine10{margin-bottom:50px;}
+	.sp{white-space:pre;}
+
+	.margine20{margin-top: 10px;  margin-bottom:0px;margin-left: 20px;margin-right: 20px;}
+	.border1{border-color: red;border:5px;}
+
+	.news{height:30px;max-width:2500px; background-color: #ecbc59 ;}
+	.button2{background-color: #5cb85c;}
+	.well {background-color: rgba(255,255,255,0.6);
+           -webkit-box-shadow: none;
+            box-shadow: none;border: none;}
+.ccolor{background-color:white;
+	box-shadow: 0 0 20px rgba(50,50,50,.37);}
+	.ccolorw{background-color:white;}
+
+.top {
+				box-shadow: 0 -20px 20px -20px rgba(50,50,50,.37);
+			}
+			
+			.right {
+				box-shadow: 20px 0 20px -20px rgba(50,50,50,.37);
+			}
+			
+			.bottom {
+				box-shadow: 0 20px 20px -20px rgba(50,50,50,.37);
+			}
+			
+			.left {
+				box-shadow: -20px 0 20px -20px rgba(50,50,50,.37);
+			}
+			
+			.all {
+				box-shadow: 0 0 20px rgba(50,50,50,.37);
+			}
+ 
+
+.fontcolor{color:#19706ecc; }    
+
+
+.bcolor1{background-color:#fff0d5;}
+
+.padding2{padding: 2px;}
+.padding2n{padding: 0px;}
+
+.padding1{padding-top: 1px !important;
+padding-bottom: 5px !important;}
+
+.padding2{padding-bottom:9px !important;
+padding-top: 0px !important
+}
+
+.texta{text-align: justify-all;
+text-align: justify;
+font-family: "Times New Roman", Times, serif;}
+.fontbest{font-family: "Times New Roman", Times, serif;}
+
+	.font10{font-size:15px;color:#088794;padding-top:0px;font-family: "Times New Roman", Times, serif;}
+}
+
+
+/*.back{
+	    background-color:#4ACCD180;
+	    color:white;
+	    border-radius:5px;
+	    padding-left:6px;}
+*/
+	    .white{
+	    	color: white;
+	    }
+	    .bcolor2{background-color:#fff9ee;}
+.bcolor3{background-color:#f7ffc9;}
+.bcolor4{background-color:#c9dcff;}
+.bcolor5{background-color:#83C6D2;}
+.bcolor6{background-color:#f6f6f6;}
+.bcolorw{background-color:white;}
+.shadow{box-shadow: 0 0 20px rgba(50,50,50,.17);}
+
+.lcolor{color:#E09E19 ;}
+.gray{color:gray ;text-shadow: 0px 0px 12px white;}
+.green{color:#7CB342 ;}
+
+.bcolor1 div .margine20 h2:hover{font-color:red;}
+/*.bcolor1 div .margine20 i:hover{font-size:26px;}*/
+.bcolor1 div .margine20 h6:hover{font-size:16px;}
+
+
+
+.mb7{margin-bottom: 7px;}
+
+
+.testimonial2{background-image: url(../img/parallax/3.jpg);} 
+
+
+
+.mylist{
+
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Sorts Mill Goudy', serif;
+	font-size:25px;
+	color:red;
+	margin-left:0px; 
+	border-radius:5px ;
+	border-bottom-color:white;  
+	text-shadow: 4px 4px 4px #aaa;}
+
+
+.line{color:gray;font-size: 11px;font-weight: bold;position: right;text-align: left;padding-top: 0px;margin-top: 0px;}
+.nothing h6:hover { color: #660000;font-size: 11px;text-shadow: 4px 4px 4px #aaa; }
+.nowc{color: #7f0000;font-weight: bold;}
+.pad{margin-left: 20px;}
+.pad2{margin-left: 110px;}
+
+
+.marque{color:white;
+	border:1px solid white;
+	padding-bottom:1px;
+    margin-left: :4px;
+    padding-right: :40px;}
+
+
+.paddingtop10{padding-top: 10px;}
+.paddingtop15{padding-top: 15px;}
+.paddingtop20{padding-top: 20px;}
+.paddingtop30{padding-top: 30px;}
+
+.all-0{margin: 0px,padding:0px;}
+
+
+.service{color:gray;
+ margin-top:10px;
+ border:1px solid LightGray;
+ border-radius:30px;
+ padding:6px;}
+
+
+.pem{font-size: 70%;}
+
+
+
+.pricing-box {
+	padding-left:0;
+	padding-right:0;
+	
+}
+
+.pricing-content2 {
+	background:#fff;
+	-webkit-box-shadow:0 0 7px rgba(0,0,0,0.1);
+	box-shadow:0 0 7px rgba(0,0,0,0.1);
+	margin-top:8px;
+	-webkit-transition:all .25s ease-in-out;
+	-moz-transition:all .25s ease-in-out;
+	-o-transition:all .25s ease-in-out;
+	transition:all .25s ease-in-out;
+	position:relative;
+	
+	border-radius: 4px;
+}
+.pricing-content2.general {
+	z-index:99;
+}
+
+.pricing-content2:hover {
+	margin-top:0px;
+	-webkit-transition:all .25s ease-in-out;
+	-moz-transition:all .25s ease-in-out;
+	-o-transition:all .25s ease-in-out;
+	transition:all .25s ease-in-out;
+	-webkit-box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
+	box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
+}
+
+.pricing-content2 h2 {
+	background-color:#666;
+	color:#FFF;
+	font-size:17px;
+	text-align:center;
+	margin-bottom:0;
+	padding:30px 0;
+	border-radius: 4px 4px 0 0;
+}
+
+.pricing-content2 h3 {
+	color:#fff;
+	text-align:center;
+	font-size:32px;
+	background:#444;
+	margin-bottom:0;
+	font-weight:700;
+	padding:30px 0;
+}
+
+.pricing-content2 h3 span {
+	font-weight:300;
+	font-size:18px;
+}
+
+.pricing-content2 h3 sup {
+	font-size:18px;
+}
+
+.pricing-content2 ul {
+	list-style:none;
+	margin:25px 0;
+}
+
+.pricing-content2 li {
+	border-top:1px dotted #EFEFEF;
+	width:75%;
+	color:#333;
+	margin:0 auto;
+	padding:15px 0;
+}
+
+.pricing-content2 li:first-child {
+	border-top:none;
+}
+
+.pricing-content2 li i {
+	float:right;
+
+}
+
+
+
+.pricing-content2 li del {
+	color:#aaa;
+}
+
+.price-bottom {
+	background:#f7f7f7;
+	text-align:center;
+	padding:25px 0;
+	border-radius: 0 0 4px 4px;
+}
+
+
+.pricing-content2 p {
+	background:#F8F8F8;
+	padding:20px;
+}
+
+.pricing-content2.featured {
+	margin-top:-20px;
+	position:relative;
+	z-index:9999;
+	-webkit-box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
+	box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
+}
+
+
+.pricing-content2.featured h3 {
+	font-size:38px;
+	padding:45px 0;
+}
+
+.staff{background-color:yellow;padding:9px;padding-top:7px;}
+
+
+/*Material*/
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+/* Rules for sizing the icon. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+/* Rules for using icons as black on a light background. */
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+/* Rules for using icons as white on a dark background. */
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+
